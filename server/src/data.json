@@ -1,0 +1,53 @@
+[
+    {
+      "name_of_product": "Wireless Mouse",
+      "short_description": "Ergonomic wireless mouse with smooth tracking",
+      "price": 25.99
+    },
+    {
+      "name_of_product": "Bluetooth Headphones",
+      "short_description": "Over-ear headphones with noise cancellation",
+      "price": 79.99
+    },
+    {
+      "name_of_product": "Portable Charger",
+      "short_description": "Fast-charging power bank with 10,000mAh capacity",
+      "price": 19.99
+    },
+    {
+      "name_of_product": "Smartwatch",
+      "short_description": "Fitness tracker with heart rate monitor and sleep analysis",
+      "price": 129.99
+    },
+    {
+      "name_of_product": "LED Desk Lamp",
+      "short_description": "Adjustable desk lamp with touch control and dimming feature",
+      "price": 34.99
+    },
+    {
+      "name_of_product": "Laptop Stand",
+      "short_description": "Ergonomic adjustable stand for laptops up to 17 inches",
+      "price": 45.00
+    },
+    {
+      "name_of_product": "Wireless Keyboard",
+      "short_description": "Slim, rechargeable keyboard with quiet typing",
+      "price": 29.99
+    },
+    {
+      "name_of_product": "Smart Thermostat",
+      "short_description": "Programmable smart thermostat with Wi-Fi connectivity",
+      "price": 149.99
+    },
+    {
+      "name_of_product": "Electric Toothbrush",
+      "short_description": "Sonic-powered toothbrush with 3 brushing modes",
+      "price": 59.99
+    },
+    {
+      "name_of_product": "Fitness Tracker",
+      "short_description": "Activity tracker with step counting and calorie burn tracking",
+      "price": 39.99
+    }
+  ]
+  
